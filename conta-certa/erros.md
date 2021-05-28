@@ -33,6 +33,7 @@ Os erros listados abaixo são agrupados por contexto e pode ser apresentado em s
 | CCE\_3 | Description is only allowed in Pix validations ⚠  |
 | CCE\_4 | Pix description can not be greater than 140 characters |
 | CCE\_5 | The Pix description cannot contain unsafe html tags |
+| CCE\_6 | Novo erro |
 
 {% hint style="warning" %}
 Para habilitar este recurso é só entrar em contato com o nosso suporte pelo email [suporte@transfeera.com](mailto:suporte@transfeera.com)
