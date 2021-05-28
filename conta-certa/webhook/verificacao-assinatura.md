@@ -1,4 +1,4 @@
-# Verificação da assinatura
+# Signature validation
 
 Toda notificação que enviamos para o seu endpoint é assinada. Fazemos isso incluindo um header com o nome `Transfeera-Signature` em cada evento que enviamos. Isso permite verificar e garantir que o evento foi enviado pela Transfeera e não por um terceiro.
 

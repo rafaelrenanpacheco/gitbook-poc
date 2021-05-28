@@ -1,4 +1,4 @@
-# Erros
+# Errors
 
 Os erros listados abaixo são agrupados por contexto e pode ser apresentado em situações diversas. O erro contêm:
 

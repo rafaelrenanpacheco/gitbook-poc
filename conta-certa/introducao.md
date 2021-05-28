@@ -1,4 +1,4 @@
-# Introdução
+# Introduction
 
 API de validação de dados bancários. Essa API fornece uma forma simples de você validar os dados bancários de um recebedor e também receber sugestões para correção de dados incorretos e também erros transparentes informando o exato problema da conta bancária.
 

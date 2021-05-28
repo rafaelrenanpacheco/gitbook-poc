@@ -1,4 +1,4 @@
-# Autenticação
+# Authentication
 
 Assim que a sua conta for criada, enviaremos as credenciais por e-mail com o `Client ID` e o `Client Secret`. Salve essas credenciais em um local seguro, preferencialmente um Cofre de senhas.
 

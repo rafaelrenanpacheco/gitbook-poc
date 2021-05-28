@@ -1,4 +1,4 @@
-# Bancos
+# Banks
 
 ## Endpoints
 
