@@ -28,12 +28,13 @@ Os erros listados abaixo são agrupados por contexto e pode ser apresentado em s
 
 | Código | Mensagem |
 | :--- | :--- |
-| CCE\_1 | Micro deposit is not allowed for your account ⚠  |
-| CCE\_2 | Specify the micro deposit value is not allowed for your account ⚠  |
-| CCE\_3 | Description is only allowed in Pix validations ⚠  |
+| CCE\_1 | Micro deposit is not allowed for your account ⚠ |
+| CCE\_2 | Specify the micro deposit value is not allowed for your account ⚠ |
+| CCE\_3 | Description is only allowed in Pix validations ⚠ |
 | CCE\_4 | Pix description can not be greater than 140 characters |
 | CCE\_5 | The Pix description cannot contain unsafe html tags |
 | CCE\_6 | Novo erro |
+| CCE\_7 | Outro novo erro |
 
 {% hint style="warning" %}
 Para habilitar este recurso é só entrar em contato com o nosso suporte pelo email [suporte@transfeera.com](mailto:suporte@transfeera.com)
